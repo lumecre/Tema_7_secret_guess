@@ -1,4 +1,1 @@
-# Tema_7_secret_guess
-# tema_7_secret_guess
-# tema_7_secret_guess
-# tema_7_secret_guess
+# Ejercicio del tema 7 del curso desarrollador web de SmartNinja
